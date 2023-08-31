@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt=br">
+<head>
+<meta charset="utf-8">
+<title> Teste de JSON </title>
+<head>
+
+<body>
+
+<script>
+var frutas = `{
+    "fruta": "banana",
+    "preço": 15.50, 
+    "tipo": [
+        "prata", 
+        "maçã",
+        "nanica",
+        "da terra", "ouro"
+    ],
+    "origem": "Brasil",
+    "caractere": "\u3071"
+}`;
+console.log (frutas);
+console.log (JSON.parse(frutas));
+console.log (JSON.parse(frutas).origem);
+
+
+</script>
+
+</body>
+</html>
