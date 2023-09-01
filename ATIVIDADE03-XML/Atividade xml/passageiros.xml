@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<passageiros>
+    <passageiro>
+        <name>Renan</name>
+        <age>24</age>
+        <ticket>12345</ticket>
+        <origin>CG</origin>
+        <destiny>Vegas</destiny>
+    </passageiro>
+
+    <passageiro>
+        <name>Gabi</name>
+        <age>24</age>
+        <ticket>23456</ticket>
+        <origin>CG</origin>
+        <destiny>Londres</destiny>
+    </passageiro>
+
+    <passageiro>
+        <name>Yanna</name>
+        <age>24</age>
+        <ticket>23456</ticket>
+        <origin>CG</origin>
+        <destiny>Londres</destiny>
+    </passageiro>
+
+    <passageiro>
+        <name>~.</name>
+        <age>24</age>
+        <ticket>34567</ticket>
+        <origin>CG</origin>
+        <destiny>Madrid</destiny>
+    </passageiro>
+
+    <passageiro>
+        <name>Igor</name>
+        <age>24</age>
+        <ticket>45678</ticket>
+        <origin>CG</origin>
+        <destiny>California</destiny>
+    </passageiro>
+</passageiros>
